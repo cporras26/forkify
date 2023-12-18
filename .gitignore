@@ -1,0 +1,8 @@
+﻿node_modules
+.idea
+.gitignore
+.git
+.prettierrc
+.parcel-cache
+dist
+
